@@ -81,4 +81,4 @@ The current code is a robust foundation for further enhancements:
 - Expanding to simulate a wider range of wavelengths for improved tissue penetration.
 - Implementing advanced statistical techniques for noise reduction in simulated detection.
 
-This repository provides a comprehensive framework for studying photon-tissue interactions, supporting the development of innovative non-invasive monitoring technologies.
+This repository provides a comprehensive framework for studying photon-tissue interactions, supporting the development of innovative non-invasive monitoring technologies. This code was developed as part of the study detailed in the thesis 'Photon Propagation in Infant Neck Tissue: A Monte Carlo and Ray-Tracing Simulation Study' by Adrian Severino, available at the Johns Hopkins University library repository.
